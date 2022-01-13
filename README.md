@@ -18,22 +18,10 @@ Happy Coding! 😊
 <i>Follow me:</i><br>
 
 
-<a href="https://https://www.instagram.com/klcamilo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://https://www.instagram.com/klcamilo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-
-
-⭐ From [ABSphreak](https://github.com/ABSphreak)
-
-
-
-
-
-
-
-
-
 
 - 👋 Hi, I’m @CamiloLR
 - 👀 I’m interested in ...
