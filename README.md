@@ -2,12 +2,12 @@
 - 👀 I´m interested in learning and helping anyone who needs an extra hand ...
 - 🌱 I’m currently learning web design...
 - 💞️ I´m looking to collaborate on projects with any company or person that needs my help ...
-
+<div align="center" width="50">
 <h2><𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+
 
 </div>
 
